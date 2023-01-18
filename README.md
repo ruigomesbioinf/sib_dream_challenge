@@ -15,7 +15,10 @@ The goal of this challenge is to predict incident heart failure based on clinica
 **DATASET**
 
 The FINRISK cohort data is divided in random subsets for training, test and scoring subsets. The FINRISK cohort includes 7,231 adult stool samples (54% participation rate) collected in 2002 and including 15 years follow up (currently available until the end of 2019). Challenge Data includes synthetic data based on FINRISK population cohort study.
-The synthetic data is provided in csv format:
+
+**Folder structure** 
+
+The synthetic data is provided in csv format.
 
 train
 <ul>
@@ -37,8 +40,8 @@ test
   <li>Taxonomic mapping table (taxtable.csv): Mapping of the taxonomic species to higher taxonomic hierarchy (Kingdom, Phylum, Class, Order, Family, Genus and Species)</li>
 </ol>
 
-
-
+List of metadata
+<img src="/Users/Sergiomendes/Desktop/Image1.png" alt="List of metadata">
 
 
 
