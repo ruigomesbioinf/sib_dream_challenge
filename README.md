@@ -42,15 +42,14 @@ test
 
 List of metadata
 
-<style>
-  img {
-    width: 200px;
-    height: 150px;
-    float: left;
-  }
-</style>
+<img src="Table_1.png" alt="Table 1" class="list of metadata">
 
-<img src="image.jpg" alt="An example image">
+.example-image {
+  width: 200px;
+  height: 150px;
+  float: left;
+}
+
 
 
 
