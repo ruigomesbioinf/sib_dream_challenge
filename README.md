@@ -51,21 +51,7 @@ List of metadata
  <li>Exploratory data analysis</li>
  <li>Correlation Test</li>
  <li>Machine Learning</li>
-    <ul>
- <li>Cenas 1</li>
- <li>Cenas 2</li>
- <li>Cenas 3</li>
- <li>Cenas 4</li>
- <li>Cenas 5</li>
-</ul>
  <li>Deep Learning</li>
-  <ul>
- <li>Cenas 1</li>
- <li>Cenas 2</li>
- <li>Cenas 3</li>
- <li>Cenas 4</li>
- <li>Cenas 5</li>
-</ul>
 </ul>
 
 
