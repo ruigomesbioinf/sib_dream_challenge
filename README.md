@@ -42,15 +42,15 @@ test
 
 List of metadata
 
-<img src="/Users/Sergiomendes/Desktop/Image1.png" alt="List of metadata">
+<style>
+  img {
+    width: 200px;
+    height: 150px;
+    float: left;
+  }
+</style>
 
-
-
-
-
-
-
-
+<img src="image.jpg" alt="An example image">
 
 
 
