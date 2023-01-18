@@ -68,7 +68,6 @@ List of metadata
 </ul>
 </ul>
 
-<a href="src/explore_analysis_training.ipynb">Download My File</a>
 
 
 
