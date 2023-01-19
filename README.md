@@ -1,6 +1,6 @@
 # FINRISK - HEART FAILURE AND MICROBIOME
 
-Repository of Intelligent Systems for Bioinformatics's project integrated in the Master's Degree in Bioinformatics at University of Minho, Portugal 2022/2023.
+Repository of Intelligent Systems for Bioinformatics's project at University of Minho, Braga, Portugal 2022/2023.
 
 **Members**:
 <ul>
