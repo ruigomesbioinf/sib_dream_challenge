@@ -1,4 +1,4 @@
-# FINRISK - HEART FAILURE AND MICROBIOME
+# DREAM CHALLENGE - FINRISK - HEART FAILURE AND MICROBIOME
 
 Repository of Intelligent Systems for Bioinformatics's project at University of Minho, Braga, Portugal 2022/2023.
 
